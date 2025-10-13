@@ -1,0 +1,13 @@
+/*
+✅ Cách 1: build một lần
+npx tailwindcss -i ./input.css -o ./output.css
+
+✅ Cách 2: theo dõi tự động (khuyên dùng khi đang code)
+npx tailwindcss -i ./input.css -o ./output.css --watch
+*/
+
+@import "tailwindcss";
+
+.shadow-glow {
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+}

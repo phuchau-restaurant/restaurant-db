@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- If you don't have a built Tailwind CSS yet, the CDN below enables Tailwind utilities immediately for development. -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="./src/output.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite App</title>
+  </head>
+  <body>
+    <div id="app"></div>
+  <script type="module" src="./src/main.js"></script> 
+
+    <!-- Nút Hamburger - dùng khi màn hình nhỏ-->
+      <button id="menu-btn" class="block md:hidden focus:outline-none">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="h-6 w-6"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M4 6h16M4 12h16M4 18h16"
+          />
+        </svg>
+      </button>
+
+    <!-- Heading -->
+
+    <!--Comment
+      Thiết kế heading có các mục như "Home", "About Us", "Courses", "Our Teachers", "FAQs" và một dạng button "Contact Now"
+        -> Sử dụng các loại như thẻ <a> + <button> sẽ hợp lý.
+      shadow-glow: tạo hiệu ứng phát sáng xung quanh phần tử khi hover
+      font-bold: tạo viền cho chữ
+      -->
+    <div class=" p-5 
+                 w-3/4 flex gap-5 justify-around
+                 bg-gray-100">
+               <!--Dùng flex justify-center + items-center để căn giữa nội dung-->
+      <a href ="#home"    class = "bg-amber-500 
+                                     flex justify-center items-center"> Home </a>
+      <a href ="#about"   class = "flex justify-center items-center"> About Us </a>
+      <a href ="#courses" class = "flex justify-center items-center"> Courses </a>
+      <a href ="#teachers"class = "flex justify-center items-center"> Our Teachers </a>
+      <a href ="#faqs"    class = "flex justify-center items-center"  > FAQs </a>
+      <button class = "h-10 p-3 font-bold
+                     bg-pink-500
+                     flex justify-center items-center
+                     text-white
+                     hover:bg-white hover:text-black transition-all duration-300
+                     rounded-full shadow-glow">Contact Now</button>
+    </div>
+
+    <!--Welcome and its background -->
+
+    <!-- Unique learning environment -->
+
+    <!-- Three easy steps-->
+
+    <!-- Meet our teachers -->
+
+    <!-- Our Preschool photo with a bar to scroll -->
+
+    <!-- Enroll and Contact us-->
+
+    <!-- Fast ans question -->
+  </body>
+</html>
