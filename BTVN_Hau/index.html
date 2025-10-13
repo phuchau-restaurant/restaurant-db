@@ -11,14 +11,17 @@
   <body>
     <div id="app"></div>
   <script type="module" src="./main.js"></script> 
+                      <!---
+                            Combo: flex + justify-center + items-center-> trung tâm
+                            --->
+    <!-- Heading -->
     <!---Đưa nút Hamburger và các elements của header vào chung một row -> Tạo một div flex mới-->
+      <!-- Nút Hamburger - dùng khi màn hình nhỏ-->
+     <div class ="flex justify-end items-center
+                  p-5 bg-gray-100">
 
-    <!-- Nút Hamburger - dùng khi màn hình nhỏ-->
-     <div class ="
-                  flex justify-between items-center
-                  p-10 bg-gray-100">
-      <button id="menu-btn" class="
-      block md:hidden focus:outline-none ">
+      <button id="menu-btn" class="block md:hidden focus:outline-none 
+                                ">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           class="h-6 w-6"
@@ -33,44 +36,40 @@
             d="M4 6h16M4 12h16M4 18h16"
           />
         </svg>
-      </button>
-      </div>
-      <!---
-          Combo: flex + justify-center + items-center-> trung tâm
-          --->
-    <!-- Heading -->
+        </button>
 
-    <!--Comment
-      Thiết kế heading có các mục như "Home", "About Us", "Courses", "Our Teachers", "FAQs" và một dạng button "Contact Now"
-        -> Sử dụng các loại như thẻ <a> + <button> sẽ hợp lý.
-      shadow-glow: tạo hiệu ứng phát sáng xung quanh phần tử khi hover
-      font-bold: tạo viền cho chữ
-      -->
-    
-
+        <!--Comment
+        Thiết kế heading có các mục như "Home", "About Us", "Courses", "Our Teachers", "FAQs" và một dạng button "Contact Now"
+          -> Sử dụng các loại như thẻ <a> + <button> sẽ hợp lý.
+        shadow-glow: tạo hiệu ứng phát sáng xung quanh phần tử khi hover
+        font-bold: tạo viền cho chữ
+          -->
       
-    <div id = "menu" class=" p-5 bg-gray-100
-                        hidden md:flex gap-5 ">
-          <!-- Lúc phóng to và thu nhỏ, cố định ở justify-end trong khi cần bôi gray cho full header-->
-      <div class ="w-4/5 ml-20 flex gap-5 justify-end"> 
-        
-                <!--Dùng flex justify-center + items-center để căn giữa nội dung-->
-        <a href ="#home"  class = "bg-amber-500 
-                                      flex justify-center items-center"> Home </a>
-        <a href ="#about"   class = "flex justify-center items-center"> About Us </a>
-        <a href ="#courses" class = "flex justify-center items-center"> Courses </a>
-        <a href ="#teachers"class = "flex justify-center items-center"> Our Teachers </a>
-        <a href ="#faqs"    class = "flex justify-center items-center"  > FAQs </a>
-        <button href="contactNow" class = "h-10 p-3 font-bold
-                      bg-pink-500
-                      flex justify-center items-center
-                      text-white
-                      hover:bg-white hover:text-black transition-all duration-300
-                      rounded-full shadow-glow">Contact Now</button>
-      </div>
+      <div id = "menu" class=" bg-gray-100
+                          hidden md:flex gap-5 ">
+            <!-- Lúc phóng to và thu nhỏ, cố định ở justify-end trong khi cần bôi gray cho full header-->
+        <div class ="w-full ml-20 flex gap-10 justify-end"> 
+          
+                  <!--Dùng flex justify-center + items-center để căn giữa nội dung-->
+          <a href ="#home"  class = " flex justify-center items-center"> Home </a>
+          <a href ="#about"   class = "flex justify-center items-center"> About Us </a>
+          <a href ="#courses" class = "flex justify-center items-center"> Courses </a>
+          <a href ="#teachers"class = "flex justify-center items-center"> Our Teachers </a>
+          <a href ="#faqs"    class = "flex justify-center items-center"  > FAQs </a>
+          <button href="contactNow" class = "h-10 p-3 font-bold
+                        bg-pink-500
+                        flex justify-center items-center
+                        text-white
+                        hover:bg-white hover:text-black transition-all duration-300
+                        rounded-full shadow-glow">Contact Now</button>
+        </div>
 
-    </div>
-    <!--For Menu on header bar when screen is small-->
+        </div>
+      </div>
+     
+
+    
+      <!--For Menu on header bar when screen is small-->
      <!-- Script điều khiển menu -->
     <script>
       const menuBtn = document.getElementById("menu-btn");
@@ -80,6 +79,7 @@
         menu.classList.toggle("hidden");      // Ẩn/hiện menu
         menu.classList.toggle("flex");        // Dạng hiển thị flex
         menu.classList.toggle("flex-col");    // Sắp xếp thành cột (cho mobile)
+        menu.classList.toggle("justify-end"); // Căn phải khi xổ xuống
         menu.classList.toggle("space-y-4");   // Khoảng cách giữa các mục
         menu.classList.toggle("mt-4");        // Cách lề trên một chút
         menu.classList.toggle("items-start"); // Căn trái khi xổ xuống
