@@ -1,0 +1,20 @@
+{
+    "name": "restaurant-db",
+    "type": "module",
+    "description": "Database migration and seed scripts for Smart Restaurant",
+    "scripts": {
+        "migrate": "knex migrate:latest",
+        "migrate:rollback": "knex migrate:rollback",
+        "migrate:rollback:all": "knex migrate:rollback --all",
+        "migrate:status": "knex migrate:status",
+        "migrate:make": "knex migrate:make",
+        "seed": "knex seed:run",
+        "db:check": "node scripts/check-migration.js",
+        "db:reset": "knex migrate:rollback --all && knex migrate:latest && knex seed:run"
+    },
+    "dependencies": {
+        "knex": "^3.1.0",
+        "pg": "^8.13.0",
+        "dotenv": "^17.2.3"
+    }
+}

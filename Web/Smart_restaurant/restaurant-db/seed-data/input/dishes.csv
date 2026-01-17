@@ -1,0 +1,69 @@
+tenant_id,category_id,name,description,price,image_url,is_available,status,prep_time_minutes,created_at,updated_at,is_recommended,order_count
+019abac9-846f-75d0-8dfd-bcf9c9457866,1,Gỏi lá cải,Gỏi lá cải giòn tươi,140000,https://thanhnien.mediacdn.vn/Uploaded/2014/saigonamthuc.thanhnien.com.vn/Pictures201408/Tan_Nhan/goicucai_TB.jpg,TRUE,Available,10,2025-04-03 08:15:23.456789+00,2025-05-12 10:30:45.123456+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,1,Soup cà chua hải sản,Soup cà chua với tôm mực tươi ngon,100000,https://eertxcqtdinpujxukdss.supabase.co/storage/v1/object/public/imageBucket/tenant_019abac9-846f-75d0-8dfd-bcf9c9457866/dishes/mc3b3n-khai-ve1bb8b-soup-cc3a0-chua-he1baa3i-se1baa3n-f0ca6b4f-6a12-4a5b-b417-2f6b9b91181e.jpg,TRUE,Available,15,2025-04-05 09:22:11.234567+00,2025-05-18 14:45:33.987654+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,1,Soup bí đỏ,Soup bí đỏ béo ngậy thơm ngon,100000,https://core.afg.vn/uploads/images/m%C3%B3n-khai-v%E1%BB%8B-Soup-b%C3%AD-%C4%91%E1%BB%8F-min.jpg,TRUE,Available,15,2025-04-07 11:33:44.567890+00,2025-05-22 16:20:12.345678+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,1,Bánh canh cá,Bánh canh cá siêu ngon,150000,https://eertxcqtdinpujxukdss.supabase.co/storage/v1/object/public/imageBucket/tenant_019abac9-846f-75d0-8dfd-bcf9c9457866/dishes/bo-41b18ed2-bdfe-43de-9964-79ccd48bee9d.jpg,TRUE,Available,10,2025-04-09 14:45:22.890123+00,2025-05-25 09:15:56.234567+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,2,Trà đào cam sả,Trà đào mát lạnh với cam sả thơm ngon,35000,https://product.hstatic.net/200000791069/product/lord-50_5221e714bef5444aaab6759e2a219146_1024x1024.jpg,TRUE,Available,5,2025-04-02 07:30:15.123456+00,2025-05-10 11:25:33.456789+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,2,Cà phê sữa đá,Cà phê phin đậm đà với sữa đặc,25000,,TRUE,Available,5,2025-04-04 10:12:33.789012+00,2025-05-14 08:40:22.567890+00,TRUE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,2,Sinh tố bơ,Sinh tố bơ béo ngậy thơm ngon,40000,,TRUE,Available,7,2025-04-06 13:25:44.234567+00,2025-05-16 15:55:44.890123+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,2,Nước ép cam tươi,Nước ép cam nguyên chất tươi mát,35000,,TRUE,Available,5,2025-04-08 16:40:55.678901+00,2025-05-19 12:30:11.234567+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,2,Trà sữa trân châu,Trà sữa với trân châu đen dai ngon,38000,,TRUE,Available,7,2025-04-10 08:55:12.345678+00,2025-05-21 17:45:33.567890+00,TRUE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,2,Chanh dây đá xay,Chanh dây xay mát lạnh giải khát,30000,,TRUE,Available,5,2025-04-12 11:20:33.456789+00,2025-05-24 10:15:22.890123+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,2,Nước dừa tươi,Nước dừa xiêm tươi mát giải nhiệt,25000,,TRUE,Available,3,2025-04-14 14:35:44.567890+00,2025-05-27 13:20:44.234567+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,2,Soda chanh,Soda mát lạnh với chanh tươi,28000,,TRUE,Available,3,2025-04-16 09:45:55.678901+00,2025-05-29 16:35:55.678901+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,2,Bia Sài Gòn,Bia Sài Gòn Special lon 330ml,18000,https://eertxcqtdinpujxukdss.supabase.co/storage/v1/object/public/imageBucket/tenant_019abac9-846f-75d0-8dfd-bcf9c9457866/dishes/bia-sai-gon-0a5297c5-5c52-4735-9ef1-c75134f1c9c2.jpg,TRUE,Available,1,2025-04-18 12:10:22.890123+00,2025-05-30 09:50:12.345678+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,2,Bia Tiger,Bia Tiger lon 330ml,20000,,TRUE,Available,1,2025-04-20 15:25:33.123456+00,2025-05-31 14:25:33.456789+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,2,Bia Heineken,Bia Heineken lon 330ml,25000,,TRUE,Available,1,2025-04-22 08:40:44.234567+00,2025-05-28 11:40:44.567890+00,TRUE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,2,Aquafina,Nước tinh khiết Aquafina 500ml,20000,https://eertxcqtdinpujxukdss.supabase.co/storage/v1/object/public/imageBucket/tenant_019abac9-846f-75d0-8dfd-bcf9c9457866/dishes/nuoc-tinh-khiet-aquafina-500ml-202407121618240191-ef4109cc-319c-49ba-8128-09a110b0b8f8.jpg,TRUE,Available,2,2025-04-24 11:55:55.345678+00,2025-05-26 08:55:55.678901+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,2,Beer Huda,Bia Huda lon 330ml,30000,https://eertxcqtdinpujxukdss.supabase.co/storage/v1/object/public/imageBucket/tenant_019abac9-846f-75d0-8dfd-bcf9c9457866/dishes/huda-gold-70bd25b2-e4b2-46d0-b12a-b20f9b5e10ab.png,TRUE,Available,0,2025-04-26 14:15:12.456789+00,2025-05-23 15:10:12.890123+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Mì xào hải sản,Mì xào với tôm mực và rau củ tươi,65000,,TRUE,Available,15,2025-04-01 09:30:23.567890+00,2025-05-08 10:25:23.234567+00,TRUE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Mì xào bò,Mì xào với thịt bò mềm thơm,60000,,TRUE,Available,15,2025-04-03 12:45:34.678901+00,2025-05-11 13:40:34.345678+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Mì Quảng,Mì Quảng đặc sản miền Trung đậm đà,50000,,TRUE,Available,12,2025-04-05 15:55:45.789012+00,2025-05-13 16:55:45.456789+00,TRUE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Mì hoành thánh,Mì hoành thánh nước dùng thanh ngọt,45000,,TRUE,Available,10,2025-04-07 08:10:56.890123+00,2025-05-15 09:10:56.567890+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Mì trộn thập cẩm,"Mì trộn với thịt, trứng và rau",55000,,TRUE,Available,12,2025-04-09 11:25:12.901234+00,2025-05-17 12:25:12.678901+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Mì cay Hàn Quốc,Mì cay kiểu Hàn Quốc với kimchi,58000,,TRUE,Available,15,2025-04-11 14:40:23.012345+00,2025-05-20 15:40:23.789012+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Phở bò tái nạm,Phở bò truyền thống Hà Nội,50000,,TRUE,Available,10,2025-04-13 09:55:34.123456+00,2025-05-22 10:55:34.890123+00,TRUE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Bún bò Huế,Bún bò cay nồng đặc trưng Huế,55000,,TRUE,Available,12,2025-04-15 13:15:45.234567+00,2025-05-24 14:15:45.901234+00,TRUE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Hủ tiếu Nam Vang,"Hủ tiếu nước trong với thịt, tôm",55000,,TRUE,Available,12,2025-04-17 16:30:56.345678+00,2025-05-26 17:30:56.012345+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Bánh canh cua,Bánh canh cua đồng béo ngậy,60000,https://eertxcqtdinpujxukdss.supabase.co/storage/v1/object/public/imageBucket/tenant_019abac9-846f-75d0-8dfd-bcf9c9457866/dishes/banhcanh-ba73b358-ee10-45b8-b7cc-51748f1fa709.jpg,TRUE,Available,15,2025-04-19 08:45:12.456789+00,2025-05-28 09:45:12.123456+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Cơm tấm sườn bì chả,Cơm tấm đặc sản Sài Gòn thơm ngon,55000,https://static.vinwonders.com/production/com-tam-sai-gon-banner.jpg,TRUE,Available,12,2025-04-21 11:55:23.567890+00,2025-05-30 12:55:23.234567+00,TRUE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Cơm chiên Dương Châu,"Cơm chiên với tôm, lạp xưởng, trứng",65000,https://eertxcqtdinpujxukdss.supabase.co/storage/v1/object/public/imageBucket/tenant_019abac9-846f-75d0-8dfd-bcf9c9457866/dishes/resize20c491e1bb9320c483n20trixie_0067_cc6a1m20chic3aan20dc6b0c6a1ng20chc3a2u-0c63610b-8e45-45d1-8c8c-5e46307b8226.jpg,TRUE,Available,15,2025-04-23 15:10:34.678901+00,2025-05-31 16:10:34.345678+00,TRUE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Cơm gà Hải Nam,Cơm gà tẩm gia vị Hải Nam thơm ngon,75000,,TRUE,Available,15,2025-04-25 09:25:45.789012+00,2025-05-29 10:25:45.456789+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Cơm cá kho tộ,Cơm ăn kèm cá kho tộ đậm đà,60000,,TRUE,Available,15,2025-04-27 12:40:56.890123+00,2025-05-27 13:40:56.567890+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Cơm thịt kho trứng,Cơm với thịt kho trứng kiểu miền Nam,55000,,TRUE,Available,12,2025-04-29 15:55:12.901234+00,2025-05-25 16:55:12.678901+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Cơm bò xào rau muống,Cơm với bò xào rau muống giòn xanh,65000,,TRUE,Available,12,2025-04-30 08:15:23.012345+00,2025-05-23 09:15:23.789012+00,FALSE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Cơm sườn nướng,Cơm với sườn heo nướng mật ong,70000,,TRUE,Available,18,2025-04-28 11:30:34.123456+00,2025-05-21 12:30:34.890123+00,TRUE,0
+019abac9-846f-75d0-8dfd-bcf9c9457866,3,Lẩu hải sản,Lẩu hải sản tươi ngon đầy đủ,250000,https://bizweb.dktcdn.net/100/489/006/files/lau-hai-san-1.jpg?v=1697695078748,TRUE,Available,15,2025-04-26 14:45:45.234567+00,2025-05-19 15:45:45.901234+00,TRUE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,1,Gỏi cuốn tôm thịt,Gỏi cuốn tôm thịt mát lạnh,45000,,TRUE,Available,10,2025-04-02 08:20:15.345678+00,2025-05-11 09:20:15.012345+00,TRUE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,1,Súp gà nấm,Súp gà nấm ấm bụng thơm lừng,50000,,TRUE,Available,12,2025-04-04 11:35:26.456789+00,2025-05-13 12:35:26.123456+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,1,Salad rau trộn,Salad rau tươi trộn sốt dầu giấm,40000,,TRUE,Available,8,2025-04-06 14:50:37.567890+00,2025-05-15 15:50:37.234567+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,1,Chả giò rán,Chả giò giòn rụm nhân thịt,55000,,TRUE,Available,15,2025-04-08 09:05:48.678901+00,2025-05-17 10:05:48.345678+00,TRUE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,2,Cà phê đen đá,Cà phê đen đậm đà truyền thống,22000,,TRUE,Available,5,2025-04-10 12:20:59.789012+00,2025-05-19 13:20:59.456789+00,TRUE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,2,Trà xanh lạnh,Trà xanh mát lạnh thanh nhiệt,28000,,TRUE,Available,5,2025-04-12 15:35:10.890123+00,2025-05-21 16:35:10.567890+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,2,Sinh tố xoài,Sinh tố xoài ngọt mát thơm ngon,38000,,TRUE,Available,7,2025-04-14 08:50:21.901234+00,2025-05-23 09:50:21.678901+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,2,Nước ép dưa hấu,Nước ép dưa hấu tươi mát giải nhiệt,32000,,TRUE,Available,5,2025-04-16 11:05:32.012345+00,2025-05-25 12:05:32.789012+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,2,Trà sữa matcha,Trà sữa matcha Nhật Bản thơm ngon,42000,,TRUE,Available,7,2025-04-18 14:20:43.123456+00,2025-05-27 15:20:43.890123+00,TRUE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,2,Nước mía,Nước mía tươi nguyên chất,20000,,TRUE,Available,3,2025-04-20 09:35:54.234567+00,2025-05-29 10:35:54.901234+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,2,Coca Cola,Coca Cola lon 330ml,15000,,TRUE,Available,1,2025-04-22 12:50:05.345678+00,2025-05-31 13:50:05.012345+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,2,Pepsi,Pepsi lon 330ml,15000,,TRUE,Available,1,2025-04-24 16:05:16.456789+00,2025-05-30 17:05:16.123456+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,2,Bia 333,Bia 333 lon 330ml,17000,,TRUE,Available,1,2025-04-26 09:20:27.567890+00,2025-05-28 10:20:27.234567+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,2,Bia Larue,Bia Larue lon 330ml,18000,,TRUE,Available,1,2025-04-28 12:35:38.678901+00,2025-05-26 13:35:38.345678+00,TRUE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,2,Red Bull,Nước tăng lực Red Bull 250ml,25000,,TRUE,Available,1,2025-04-30 15:50:49.789012+00,2025-05-24 16:50:49.456789+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,2,Trà chanh,Trà chanh mát lạnh giải khát,25000,,TRUE,Available,5,2025-04-29 08:05:00.890123+00,2025-05-22 09:05:00.567890+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Phở gà,Phở gà nước trong thanh ngọt,48000,,TRUE,Available,10,2025-04-01 11:20:11.901234+00,2025-05-09 12:20:11.678901+00,TRUE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Bún riêu cua,Bún riêu cua đồng chua thanh,52000,,TRUE,Available,12,2025-04-03 14:35:22.012345+00,2025-05-12 15:35:22.789012+00,TRUE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Bún chả Hà Nội,Bún chả thơm lừng kiểu Hà Nội,55000,,TRUE,Available,15,2025-04-05 09:50:33.123456+00,2025-05-14 10:50:33.890123+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Mì bò kho,Mì bò kho đậm đà ấm bụng,58000,,TRUE,Available,15,2025-04-07 13:05:44.234567+00,2025-05-16 14:05:44.901234+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Cơm rang dưa bò,Cơm rang với dưa muối và thịt bò,60000,,TRUE,Available,12,2025-04-09 16:20:55.345678+00,2025-05-18 17:20:55.012345+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Cơm gà xối mỡ,Cơm gà chiên giòn xối mỡ hành,68000,,TRUE,Available,15,2025-04-11 08:35:06.456789+00,2025-05-20 09:35:06.123456+00,TRUE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Cơm tấm bì chả,Cơm tấm với bì và chả trứng,50000,,TRUE,Available,12,2025-04-13 11:50:17.567890+00,2025-05-22 12:50:17.234567+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Bánh mì thịt nướng,Bánh mì với thịt nướng và rau,35000,,TRUE,Available,8,2025-04-15 15:05:28.678901+00,2025-05-24 16:05:28.345678+00,TRUE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Bánh cuốn,Bánh cuốn nhân thịt mộc nhĩ,40000,,TRUE,Available,10,2025-04-17 09:20:39.789012+00,2025-05-26 10:20:39.456789+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Xôi mặn,Xôi với gà xé và hành phi,38000,,TRUE,Available,8,2025-04-19 12:35:50.890123+00,2025-05-28 13:35:50.567890+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Lẩu thái,Lẩu thái chua cay đậm đà,220000,,TRUE,Available,15,2025-04-21 15:50:01.901234+00,2025-05-30 16:50:01.678901+00,TRUE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Lẩu gà lá é,Lẩu gà thơm mùi lá é đặc trưng,200000,,TRUE,Available,15,2025-04-23 08:05:12.012345+00,2025-05-31 09:05:12.789012+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Cá lóc nướng trui,Cá lóc nướng trui than hoa,180000,,TRUE,Available,25,2025-04-25 11:20:23.123456+00,2025-05-29 12:20:23.890123+00,TRUE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Gà nướng mật ong,Gà nướng mật ong thơm lừng,250000,,TRUE,Available,30,2025-04-27 14:35:34.234567+00,2025-05-27 15:35:34.901234+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Sườn cốt lết chiên,Sườn heo cốt lết chiên giòn,75000,,TRUE,Available,18,2025-04-29 09:50:45.345678+00,2025-05-25 10:50:45.012345+00,FALSE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Bò lúc lắc,Bò lúc lắc xào tiêu đen,85000,,TRUE,Available,15,2025-04-30 13:05:56.456789+00,2025-05-23 14:05:56.123456+00,TRUE,0
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,3,Cánh gà chiên nước mắm,Cánh gà chiên giòn sốt nước mắm,65000,,TRUE,Available,20,2025-04-28 16:20:07.567890+00,2025-05-21 17:20:07.234567+00,FALSE,0

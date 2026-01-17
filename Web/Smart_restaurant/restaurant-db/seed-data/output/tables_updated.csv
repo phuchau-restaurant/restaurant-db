@@ -1,0 +1,61 @@
+tenant_id,table_number,capacity,location,is_vip,status,description,qr_token,qr_token_created_at,current_order_id
+019abac9-846f-75d0-8dfd-bcf9c9457866,VIP-01,6,VIP_Room,true,Occupied,"Phòng VIP 1 - Có điều hòa, TV",,,8930
+019abac9-846f-75d0-8dfd-bcf9c9457866,VIP-02,10,VIP_Room,true,Occupied,"Phòng VIP 2 - Có điều hòa, TV",,,969
+019abac9-846f-75d0-8dfd-bcf9c9457866,VIP-03,10,VIP_Room,true,Occupied,"Phòng VIP 3 - Có điều hòa, TV",,,10273
+019abac9-846f-75d0-8dfd-bcf9c9457866,VIP-04,6,VIP_Room,true,Occupied,"Phòng VIP 4 - Có điều hòa, TV",,,4661
+019abac9-846f-75d0-8dfd-bcf9c9457866,VIP-05,8,VIP_Room,true,Occupied,"Phòng VIP 5 - Có điều hòa, TV",,,8453
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-06,2,Indoor,false,Occupied,,,,8558
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-07,4,Indoor,false,Occupied,,,,3618
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-08,6,Indoor,false,Occupied,,,,6571
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-09,6,Indoor,false,Occupied,,,,1479
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-10,3,Indoor,false,Occupied,,,,10201
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-11,5,Indoor,false,Occupied,,,,7142
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-12,2,Indoor,false,Occupied,,,,7060
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-13,2,Indoor,false,Occupied,,,,6087
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-14,4,Indoor,false,Occupied,,,,1724
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-15,4,Indoor,false,Occupied,,,,6188
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-16,3,Indoor,false,Occupied,,,,6116
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-17,5,Indoor,false,Occupied,,,,2213
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-18,4,Indoor,false,Occupied,,,,8113
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-19,5,Indoor,false,Occupied,,,,8395
+019abac9-846f-75d0-8dfd-bcf9c9457866,IN-20,6,Indoor,false,Occupied,,,,7872
+019abac9-846f-75d0-8dfd-bcf9c9457866,OUT-21,3,Outdoor,false,Occupied,Bàn sân vườn 1,,,33
+019abac9-846f-75d0-8dfd-bcf9c9457866,OUT-22,3,Outdoor,false,Occupied,Bàn sân vườn 2,,,9446
+019abac9-846f-75d0-8dfd-bcf9c9457866,OUT-23,2,Outdoor,false,Occupied,Bàn sân vườn 3,,,574
+019abac9-846f-75d0-8dfd-bcf9c9457866,OUT-24,2,Outdoor,false,Occupied,Bàn sân vườn 4,,,8764
+019abac9-846f-75d0-8dfd-bcf9c9457866,OUT-25,2,Outdoor,false,Occupied,Bàn sân vườn 5,,,6445
+019abac9-846f-75d0-8dfd-bcf9c9457866,PT-26,4,Patio,false,Occupied,,,,253
+019abac9-846f-75d0-8dfd-bcf9c9457866,PT-27,5,Patio,false,Occupied,,,,9712
+019abac9-846f-75d0-8dfd-bcf9c9457866,PT-28,4,Patio,false,Occupied,,,,8990
+019abac9-846f-75d0-8dfd-bcf9c9457866,PT-29,6,Patio,false,Occupied,,,,10120
+019abac9-846f-75d0-8dfd-bcf9c9457866,PT-30,5,Patio,false,Occupied,,,,2192
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,VIP-01,10,VIP_Room,true,Occupied,"Phòng VIP 1 - Có điều hòa, TV",,,17579
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,VIP-02,9,VIP_Room,true,Occupied,"Phòng VIP 2 - Có điều hòa, TV",,,18523
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,VIP-03,7,VIP_Room,true,Occupied,"Phòng VIP 3 - Có điều hòa, TV",,,21318
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,VIP-04,7,VIP_Room,true,Occupied,"Phòng VIP 4 - Có điều hòa, TV",,,20017
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,VIP-05,9,VIP_Room,true,Occupied,"Phòng VIP 5 - Có điều hòa, TV",,,14583
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-06,6,Indoor,false,Occupied,,,,13446
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-07,3,Indoor,false,Occupied,,,,14538
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-08,3,Indoor,false,Occupied,,,,13184
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-09,2,Indoor,false,Occupied,,,,13924
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-10,2,Indoor,false,Occupied,,,,21152
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-11,5,Indoor,false,Occupied,,,,13459
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-12,5,Indoor,false,Occupied,,,,18121
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-13,5,Indoor,false,Occupied,,,,18863
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-14,6,Indoor,false,Occupied,,,,20090
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-15,5,Indoor,false,Occupied,,,,14026
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-16,6,Indoor,false,Occupied,,,,21317
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-17,5,Indoor,false,Occupied,,,,11245
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-18,4,Indoor,false,Occupied,,,,18908
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-19,2,Indoor,false,Occupied,,,,14532
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,IN-20,4,Indoor,false,Occupied,,,,13248
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,OUT-21,3,Outdoor,false,Occupied,Bàn sân vườn 1,,,11719
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,OUT-22,3,Outdoor,false,Occupied,Bàn sân vườn 2,,,18973
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,OUT-23,2,Outdoor,false,Occupied,Bàn sân vườn 3,,,15396
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,OUT-24,4,Outdoor,false,Occupied,Bàn sân vườn 4,,,18143
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,OUT-25,4,Outdoor,false,Occupied,Bàn sân vườn 5,,,14186
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,PT-26,6,Patio,false,Occupied,,,,16915
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,PT-27,4,Patio,false,Occupied,,,,19419
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,PT-28,6,Patio,false,Occupied,,,,18728
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,PT-29,6,Patio,false,Occupied,,,,11940
+019bc623-e4a5-735d-9dc7-a9a6b28ee557,PT-30,4,Patio,false,Occupied,,,,18587
